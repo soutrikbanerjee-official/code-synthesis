@@ -32,12 +32,13 @@ If you remix or use any part of the code, a small shoutout would be appreciated!
 ## About Me
 
 I'm a student and tech enthusiast.
-This project is one of my steps toward building practical tools using Python.
+This project is one of my steps toward innovating and contributing to the tech community.
 Drop a follow to keep me motivated! :)
 
 * LinkedIn: www.linkedin.com/in/soutrikbanerjee
 * GitHub: www.github.com/soutrikbanerjee-official
 * YouTube: www.youtube.com/@soutrikbanerjee-official
+* Instagram: www.instagram.com/soutrikbanerjee
 
 ---
 
